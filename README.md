@@ -15,7 +15,8 @@ Trabajo con jovenes en tecnologia, me interesa especialmente el desarrollo web, 
 ##  Proyecto
 ###  Sistema de votacion 
 Actualmente no tengo este proyecto en esta herramienta, lo estamos trabajando con los alumnos, se utilizo PHP, JS, MySQL.  
-Resolveria la votación que actualmente se hace manualmente a nivel institucional
+Resolveria la votación que actualmente se hace manualmente a nivel institucional. Pero este es el proyecto principal que nos enseñaron a realizar aqui.
+
 Repositorio: https://github.com/tecdsoft2020-cmyk/tecdsoft2020-cmyk
 
 ## Contacto
